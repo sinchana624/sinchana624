@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hi 👋, I'm Sinchana Hebbar K M | 2nd Year Computer Science Student<br><br>🤖 Exploring AI/ML and building real-world projects<br>🌐 Currently learning Web Development<br>📚 Practicing Data Structures & Algorithms (DSA)<br>🏆 Active Hackathon Participant & Builder<br>🌐 Learning: HTML | CSS | JavaScript<br>🤖 Interests: AI/ML, Smart Systems, Problem Solving,Automations<br>Currently Working On<br><br>⚡ Hackathon Projects<br>🌐 Web Development Skills<br>🧠 DSA Practice & Problem Solving<br>📈 GitHub Goals<br><br>Build impactful real-world projects<br>Improve problem-solving skills<br>Contribute to open source<br>Learning by building and hacking!
+Hi 👋, I'm Sinchana Hebbar K M | 2nd Year Computer Science Student<br><br>🤖 Exploring AI/ML and building real-world projects<br>🌐 Currently learning Web Development<br>📚 Practicing Data Structures & Algorithms (DSA)<br>🏆 Active Hackathon Participant & Builder<br
 
 
 ## 🌐 Socials:
