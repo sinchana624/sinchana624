@@ -1,4 +1,4 @@
-Hi 👋, I'm Sinchana Hebbar K M 
+Hi 👋, I'm Sinchana Hebbar K M |
 2nd Year Computer Science Student 
 
 - 💻 Skilled in **Python, C, and C++**
