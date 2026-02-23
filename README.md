@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hi 👋, I'm Sinchana Hebbar K M | 2nd Year Computer Science Student<br><br>🤖 Exploring AI/ML and building real-world projects<br>🌐 Currently learning Web Development<br>📚 Practicing Data Structures & Algorithms (DSA)<br>🏆 Active Hackathon Participant & Builder<br
+Hi 👋, I'm Sinchana Hebbar K M | 2nd Year Computer Science Student<br><br>🤖 Exploring AI/ML and building real-world projects<br>🌐 Currently learning Web Development<br>📚 Practicing Data Structures & Algorithms (DSA)<br>🏆 Active Hackathon Participant & Builder
 
 
 ## 🌐 Socials:
