@@ -1,4 +1,4 @@
-# 💫 About Me:
+
  💫 About Me<br><br>👋 Sinchana Hebbar K M — 2nd Year CS Student  <br>🤖 AI/ML Explorer & Project Builder  <br>🌐 Web Dev | ☕ Java | ⚙️ Automation (n8n)  <br>📚 DSA Practice & Problem Solving  <br>🏆 Hackathon Builder | 🤝 Open Source Collaboration
 
 
